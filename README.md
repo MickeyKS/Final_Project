@@ -6,8 +6,6 @@ We all want to maximise our fun when in a theme park and limit time lining up. W
 
 DATA SOURCES
 - http://www15.plala.or.jp/gcap/disney/
-- https://tdrexplorer.com/ 
-- https://www.timeanddate.com/services/api/
-- https://www.accuweather.com/
+- https://www.accuweather.com/en/jp/tokyo/226396/january-weather/226396?year=2021
 - https://www.timeanddate.com/holidays/japan/
 
